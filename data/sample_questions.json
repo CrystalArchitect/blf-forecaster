@@ -1,0 +1,29 @@
+[
+  {
+    "id": "btc-50k-2024",
+    "text": "Will Bitcoin (BTC-USD) trade above $50,000 at any point during 2024?",
+    "source": "manifold",
+    "cutoff": "2023-12-31",
+    "resolution_date": "2024-12-31",
+    "outcome": 1,
+    "is_market": true
+  },
+  {
+    "id": "spy-above-400-2024-06-28",
+    "text": "Will the SPDR S&P 500 ETF (Yahoo symbol SPY) close above 400 on 2024-06-28?",
+    "source": "yfinance",
+    "cutoff": "2024-05-01",
+    "resolution_date": "2024-06-28",
+    "outcome": 1,
+    "timeseries": true
+  },
+  {
+    "id": "starship-orbit-before-2024",
+    "text": "Will SpaceX Starship complete a full orbital flight (one full orbit of Earth) before 2024-01-01?",
+    "source": "metaculus",
+    "cutoff": "2023-06-30",
+    "resolution_date": "2024-01-01",
+    "outcome": 0,
+    "is_market": true
+  }
+]
